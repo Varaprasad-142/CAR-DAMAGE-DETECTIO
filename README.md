@@ -15,12 +15,16 @@ This project provides a deep learning-based solution for **automatic detection**
 ## 📂 Project Structure
 
 📁 Vehicle-Damage-Estimator:
-
 ├── car damage detection.ipynb # Main notebook for damage detection,
+
 ├── requirements.txt # Required dependencies,
+
 ├── models/ # Saved YOLOv5 model weights (if added),
+
 ├── images/ # Sample input/output images,
+
 ├── cost_prediction/ # Code/models for cost estimation (to be added),
+
 ├── README.md # Project overview.
 
 ---
@@ -41,17 +45,24 @@ This project provides a deep learning-based solution for **automatic detection**
 
 ---
 
+
 ## 🚀 Getting Started
 
 ### Clone the repository
+
 git clone https://github.com/your-username/Vehicle-Damage-Estimator.git
+
 cd Vehicle-Damage-Estimator
+
 Install dependencies
+
 pip install -r requirements.txt
+
 Run the notebook
+
 Open car damage detection.ipynb in Jupyter Notebook or VS Code and run all cells.
 
-🧪 Sample Output
+##🧪 Sample Output
 
 🔧 Future Work
  Train and integrate cost estimation model
@@ -62,7 +73,7 @@ Open car damage detection.ipynb in Jupyter Notebook or VS Code and run all cells
 
  Export results as a report or PDF
 
-📚 Technologies Used
+##📚 Technologies Used
 Python
 
 YOLOv5 (PyTorch)
@@ -75,8 +86,6 @@ NumPy
 
 TensorFlow/Keras (for cost prediction)
 
-🤝 Contributions
-Contributions are welcome! Please open an issue or submit a pull request.
 
-📄 License
-This project is licensed under the MIT License.
+
+
