@@ -15,7 +15,6 @@ This project provides a deep learning-based solution for **automatic detection**
 ## 📂 Project Structure
 
 📁 Vehicle-Damage-Estimator/
-│
 ├── car damage detection.ipynb # Main notebook for damage detection
 ├── requirements.txt # Required dependencies
 ├── models/ # Saved YOLOv5 model weights (if added)
